@@ -1,2 +1,8 @@
 Portfolio Analysis
 --------------------
+The current value of your 1.2 BTC holdings is 53153.28887999999
+The current value of your 5.3 ETH holdings is 15808.958666999999
+The current value of your 200 AGG holdings is 22964.0
+The current value of your 50 SPY holdings is 21113.5
+The total value of your holdings is 113039.74754699999
+There is a 95% chance that an initial investment of $20000 in the portfolio over the next 30 years will end within in the range of $88686.65 and $1349537.86
